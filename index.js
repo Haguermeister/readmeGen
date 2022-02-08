@@ -56,7 +56,6 @@ function init() {
     inquirer.prompt(questions).then(inqdata => {
         markdownData = generateMarkdwon(inqdata);
         console.log("Generating your README File");
-        console.log(inqdata);
         writeToFile('NewREADME.md', markdownData);
     });
 }
