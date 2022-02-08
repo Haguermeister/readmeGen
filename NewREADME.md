@@ -3,7 +3,7 @@
   
    ## Description
   
-   A professional README.md generator that intakes information via node's inquirer package and outputs in markdown language for easier reading.
+   A professional readme.md generator that intakes information via node's inquirer package and outputs it as markdown language for a clean look.
   
    ## Table of Contents
 
@@ -25,13 +25,13 @@
   
    ## Directions 
 
-   Be sure to run npm i before running node index.
+   Be sure to run npm i before running node index
   
    ## Contributions
 
-   To make contributions please complete the following directions: The project is finished but feel free to use it you would like.
+   To make contributions please complete the following directions: The project is complete feel free to use it however you would like.
   
-   ## License <br/>
+   ## License 
     Link to license documentation: https://www.apache.org/licenses/LICENSE-2.0
 
    ## Tests 

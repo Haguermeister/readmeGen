@@ -38,7 +38,7 @@ function renderLicenseSection(license) {
     else if (license == 'BSD 3') {
       licenseURL = 'https://opensource.org/licenses/BSD-3-Clause';
     }
-    return `## License <br/>
+    return `## License 
     Link to license documentation: ${licenseURL}`;
   }
   else {
