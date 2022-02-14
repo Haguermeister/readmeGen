@@ -1,9 +1,9 @@
 # Readme Generator
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
   
    ## Description
   
-   A readme generator using inquirer and markdown language
+   A professional readme generator that intakes user input using inquirer and node.js and outputs a NewREADME.md using markdwon language.
   
    ## Table of Contents
 
@@ -25,14 +25,14 @@
   
    ## Directions 
 
-   The project is finished.
+   Make sure to type npm i first then node index.
   
    ## Contributions
 
-   To make contributions please complete the following directions: No need to contirbute
+   To make contributions please complete the following directions: No need to contribute but feel free to clone and make it your own!
   
    ## License 
-    Link to license documentation: https://www.gnu.org/licenses/gpl-3.0.en.html
+    Link to license documentation: https://opensource.org/licenses/BSD-3-Clause
 
    ## Tests 
 

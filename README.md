@@ -4,7 +4,9 @@ Professional ReadMe Generator using inquirer and node.js.
 
 ## Github Repo Link : https://github.com/Haguermeister/readmeGen
 Look at NewREADME.md for an example.
-
+## Video link https://watch.screencastify.com/v/fxJQ6oMc4YqooExo0Der
+Video is also saved as /ExampleVideo.mp4 in github if screencastify is down.
+---
 ## Inquirer Screenshot Below :
 ![alt text](./ScreenShotInquirer.png)
 ---
