@@ -1,7 +1,16 @@
-# Professional README Generator Starter Code
+# README Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+Professional ReadMe Generator using inquirer and node.js.
 
+## Github Repo Link : https://github.com/Haguermeister/noteTakerServer
+
+## Screenshot Below :
+![alt text](./ScreenShot.png)
+---
+
+## Grading Criteria :
+
+---
 #### GIVEN a command-line application that accepts user input
 #### WHEN I am prompted for information about my application repository
 #### THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
