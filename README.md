@@ -2,10 +2,17 @@
 
 Professional ReadMe Generator using inquirer and node.js.
 
-## Github Repo Link : https://github.com/Haguermeister/noteTakerServer
+## Github Repo Link : https://github.com/Haguermeister/readmeGen
 
-## Screenshot Below :
-![alt text](./ScreenShot.png)
+
+## Inquirer Screenshot Below :
+![alt text](./ScreenShotInquirer.png)
+---
+## Markdown Screenshot Below :
+![alt text](./ScreenShotMarkdown.png)
+---
+## Final Product Screenshot Below :
+![alt text](./ScreenShotFinal.png)
 ---
 
 ## Grading Criteria :

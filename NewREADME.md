@@ -1,9 +1,9 @@
-# READMEGEN
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Readme Generator
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
    ## Description
   
-   A professional readme.md generator that intakes information via node's inquirer package and outputs it as markdown language for a clean look.
+   A readme generator using inquirer and markdown language
   
    ## Table of Contents
 
@@ -25,14 +25,14 @@
   
    ## Directions 
 
-   Be sure to run npm i before running node index
+   The project is finished.
   
    ## Contributions
 
-   To make contributions please complete the following directions: The project is complete feel free to use it however you would like.
+   To make contributions please complete the following directions: No need to contirbute
   
    ## License 
-    Link to license documentation: https://www.apache.org/licenses/LICENSE-2.0
+    Link to license documentation: https://www.gnu.org/licenses/gpl-3.0.en.html
 
    ## Tests 
 
@@ -40,4 +40,4 @@
 
    ## Questions
 
-   If you have questions please reach me by email @ cadethague70@gmail.com or via Github @ [Haguermeister](https://github.com/Haguermeister)
+   If you have questions please reach me by email @ email@email.com or via Github @ [haguermeister](https://github.com/haguermeister)
