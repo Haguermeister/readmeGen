@@ -3,7 +3,7 @@
 Professional ReadMe Generator using inquirer and node.js.
 
 ## Github Repo Link : https://github.com/Haguermeister/readmeGen
-
+Look at NewREADME.md for an example.
 
 ## Inquirer Screenshot Below :
 ![alt text](./ScreenShotInquirer.png)
